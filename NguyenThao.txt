@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Nguyen Thao that xinh
 Thao xinh nhat the gioi
+=======
+>>>>>>> parent of 94b612a... NguyenThao.txt changed
